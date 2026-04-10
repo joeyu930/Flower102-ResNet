@@ -1,4 +1,4 @@
-# Flower102-Resnet-
+# Flower102-ResNet
 
 ## Introduction
 - In this lab I implement ResNet-34 classification model on Flower-102 dataset (without pretrained model)  
